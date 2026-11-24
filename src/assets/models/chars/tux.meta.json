@@ -1,0 +1,64 @@
+{
+ "id": "tux",
+ "heightM": 1.88,
+ "tris": 13345,
+ "bones": 55,
+ "clips": {
+  "sit_idle": 4.333,
+  "sit_talk": 45.0,
+  "sit_drink": 6.633,
+  "sit_rub": 8.0,
+  "sit_laugh": 5.633,
+  "drink": 8.9,
+  "look_around": 6.3,
+  "look_away": 2.367,
+  "idle": 8.367,
+  "walk": 1.067
+ },
+ "seat": {
+  "hipsY": 0.589,
+  "seatSurfaceY": 0.396,
+  "hipsForwardZ": -0.011,
+  "thighUndersideY": 0.466,
+  "buttockBackZ": -0.138,
+  "kneeY": 0.55,
+  "kneeForwardZ": 0.396,
+  "ankleForwardZ": 0.393,
+  "note": "sit_idle frame 0, metres, three.js axes relative to the feet origin (y up, +z = facing). seatSurfaceY = underside below the pelvis, where the chair seat top goes: place the model at chairSeatTopY - seatSurfaceY. Every sit_* clip has the same mean hips position as sit_idle, so one placement serves all five."
+ },
+ "materialRegions": [
+  {
+   "color": "#141515",
+   "share": 0.74,
+   "region": "black (cloth, hair, shoes)"
+  },
+  {
+   "color": "#f1cdbe",
+   "share": 0.222,
+   "region": "skin"
+  },
+  {
+   "color": "#faf7f6",
+   "share": 0.037,
+   "region": "white (shirt front, cuffs)"
+  },
+  {
+   "color": "#7d7673",
+   "share": 0.001,
+   "region": "small marks (eyes, brows, buttons)"
+  }
+ ],
+ "loops": {
+  "drink": "seamless",
+  "idle": "seamless",
+  "look_around": "seamless",
+  "look_away": "seamless",
+  "sit_drink": "seam 0.077 m: crossfade the wrap",
+  "sit_idle": "seamless",
+  "sit_laugh": "seamless",
+  "sit_rub": "seamless",
+  "sit_talk": "seamless",
+  "walk": "seamless"
+ },
+ "notes": "Black tuxedo with satin lapels, white shirt front and cuffs, black bow tie, slicked-back dark hair. One material, base colour only, 512 px lossless WebP of flat colours; sampler is LINEAR without mipmaps (mipmaps bleed neighbouring UV islands into light seams on the black cloth), keep it that way. Bones use Mixamo names without prefix (Hips, Spine, LeftHand ...), A-pose rest. Clips are in place (walk 1 cycle). Needs MeshoptDecoder."
+}

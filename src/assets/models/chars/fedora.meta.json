@@ -1,0 +1,69 @@
+{
+ "id": "fedora",
+ "heightM": 1.88,
+ "tris": 13352,
+ "bones": 55,
+ "clips": {
+  "sit_idle": 4.333,
+  "sit_talk": 45.0,
+  "sit_drink": 6.633,
+  "sit_rub": 8.0,
+  "sit_laugh": 5.633,
+  "drink": 8.9,
+  "look_around": 6.3,
+  "look_away": 2.367,
+  "idle": 8.367,
+  "walk": 1.067
+ },
+ "seat": {
+  "hipsY": 0.564,
+  "seatSurfaceY": 0.391,
+  "hipsForwardZ": -0.029,
+  "thighUndersideY": 0.445,
+  "buttockBackZ": -0.182,
+  "kneeY": 0.525,
+  "kneeForwardZ": 0.369,
+  "ankleForwardZ": 0.367,
+  "note": "sit_idle frame 0, metres, three.js axes relative to the feet origin (y up, +z = facing). seatSurfaceY = underside below the pelvis, where the chair seat top goes: place the model at chairSeatTopY - seatSurfaceY. Every sit_* clip has the same mean hips position as sit_idle, so one placement serves all five."
+ },
+ "materialRegions": [
+  {
+   "color": "#141416",
+   "share": 0.726,
+   "region": "black (cloth, hair, shoes)"
+  },
+  {
+   "color": "#f7cebc",
+   "share": 0.235,
+   "region": "skin"
+  },
+  {
+   "color": "#faf6f5",
+   "share": 0.021,
+   "region": "white (shirt front, cuffs)"
+  },
+  {
+   "color": "#2b2827",
+   "share": 0.016,
+   "region": "small marks (eyes, brows, buttons)"
+  },
+  {
+   "color": "#8c807a",
+   "share": 0.002,
+   "region": "small marks (eyes, brows, buttons)"
+  }
+ ],
+ "loops": {
+  "drink": "seamless",
+  "idle": "seamless",
+  "look_around": "seamless",
+  "look_away": "seamless",
+  "sit_drink": "seam 0.09 m: crossfade the wrap",
+  "sit_idle": "seamless",
+  "sit_laugh": "seamless",
+  "sit_rub": "seamless",
+  "sit_talk": "seamless",
+  "walk": "seamless"
+ },
+ "notes": "Black double-breasted suit, white shirt, black tie, black fedora (part of the mesh, skinned to Head). One material, base colour only, 512 px lossless WebP of flat colours; sampler is LINEAR without mipmaps (mipmaps bleed neighbouring UV islands into light seams on the black cloth), keep it that way. Bones use Mixamo names without prefix (Hips, Spine, LeftHand ...), A-pose rest. Clips are in place (walk 1 cycle). Needs MeshoptDecoder."
+}

@@ -1,0 +1,17 @@
+The Blue Hour's art
+
+Our own art in this repository is dedicated to the public domain under CC0 1.0
+(https://creativecommons.org/publicdomain/zero/1.0/): everything built in code (the club, the stained glass, the bar,
+the tables, the city), and the six characters in src/assets/models/chars/ (meshes and textures generated for this
+game, our rigs and our still poses) with their .meta.json files and the rigs in assets-src/chars/.
+
+The rest keeps the licence it came with:
+
+- src/assets/models/props/: five models from Sketchfab under CC BY 4.0
+  (https://creativecommons.org/licenses/by/4.0/), modified. Credit them as public/CREDITS.md does.
+- src/assets/audio/wild-cat-blues, bleeding-hearted-blues, spain, in-the-evening: recordings from 1923 and 1924,
+  public domain in the US. assets-src/audio/LEDGER.md has the evidence for each.
+- src/assets/audio/step-wood-*, lighter-1: Freesound recordings under CC0 1.0.
+
+ASSETS.md lists every file and where it came from. MISSING_ASSETS.md lists what the released game has that this
+repository doesn't, and those files' own terms.

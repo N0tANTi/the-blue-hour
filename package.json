@@ -1,0 +1,30 @@
+{
+  "name": "deco",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "check": "node scripts/check-dist.mjs dist",
+    "preview": "node scripts/preview.mjs dist 8080",
+    "smoke": "node scripts/smoke.mjs",
+    "shots": "node scripts/shots.mjs",
+    "bot": "node scripts/bot.mjs --renderer webgpu",
+    "bot:webgl": "node scripts/bot.mjs --renderer webgl",
+    "bot:webgl2": "node scripts/bot.mjs --renderer webgl2",
+    "clip": "node scripts/clip.mjs",
+    "verify": "npm run typecheck && npm run build && npm run check && npm run smoke && npm run bot && npm run bot:webgl"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "0.21.0",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "0.186.0",
+    "playwright": "1.64.1",
+    "typescript": "7.0.2",
+    "vite": "8.3.5"
+  }
+}

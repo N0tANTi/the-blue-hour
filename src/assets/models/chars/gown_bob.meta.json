@@ -1,0 +1,69 @@
+{
+ "id": "gown_bob",
+ "heightM": 1.75,
+ "tris": 13347,
+ "bones": 55,
+ "clips": {
+  "sit_idle": 4.333,
+  "sit_talk": 45.0,
+  "sit_drink": 6.633,
+  "sit_rub": 8.0,
+  "sit_laugh": 5.633,
+  "drink": 8.9,
+  "look_around": 6.3,
+  "look_away": 2.367,
+  "idle": 8.367,
+  "walk": 1.0
+ },
+ "seat": {
+  "hipsY": 0.571,
+  "seatSurfaceY": 0.42,
+  "hipsForwardZ": -0.015,
+  "thighUndersideY": 0.483,
+  "buttockBackZ": -0.097,
+  "kneeY": 0.55,
+  "kneeForwardZ": 0.371,
+  "ankleForwardZ": 0.365,
+  "note": "sit_idle frame 0, metres, three.js axes relative to the feet origin (y up, +z = facing). seatSurfaceY = underside below the pelvis, where the chair seat top goes: place the model at chairSeatTopY - seatSurfaceY. Every sit_* clip has the same mean hips position as sit_idle, so one placement serves all five."
+ },
+ "materialRegions": [
+  {
+   "color": "#080809",
+   "share": 0.748,
+   "region": "black (cloth, hair, shoes)"
+  },
+  {
+   "color": "#f7d4c1",
+   "share": 0.25,
+   "region": "skin"
+  },
+  {
+   "color": "#f7cb93",
+   "share": 0.002,
+   "region": "gold accent (necklace)"
+  },
+  {
+   "color": "#4e453f",
+   "share": 0.0,
+   "region": "small marks (eyes, brows, buttons)"
+  },
+  {
+   "color": "#988579",
+   "share": 0.0,
+   "region": "small marks (eyes, brows, buttons)"
+  }
+ ],
+ "loops": {
+  "drink": "seamless",
+  "idle": "seamless",
+  "look_around": "seamless",
+  "look_away": "seamless",
+  "sit_drink": "seam 0.064 m: crossfade the wrap",
+  "sit_idle": "seamless",
+  "sit_laugh": "seamless",
+  "sit_rub": "seamless",
+  "sit_talk": "seamless",
+  "walk": "seamless"
+ },
+ "notes": "Sleeveless black column gown with a side slit, short black bob with fringe, gold necklace. Skirt weights smoothed between the legs; knees drawn in when seated. One material, base colour only, 512 px lossless WebP of flat colours; sampler is LINEAR without mipmaps (mipmaps bleed neighbouring UV islands into light seams on the black cloth), keep it that way. Bones use Mixamo names without prefix (Hips, Spine, LeftHand ...), A-pose rest. Clips are in place (walk 1 cycle). Needs MeshoptDecoder."
+}

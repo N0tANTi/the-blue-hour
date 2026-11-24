@@ -1,0 +1,11 @@
+import { launch, startPreview, watch } from '../scripts/lib.mjs';
+const server = await startPreview('dist');
+const browser = await launch();
+const page = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+const w = watch(page, server.url);
+await page.goto(server.url);
+await page.waitForFunction(() => window.__game?.ready, null, { timeout: 60000 });
+await page.waitForTimeout(1500);
+await page.screenshot({ path: 'shots/look-5/title.png' });
+console.log('errors', w.errors.length);
+await browser.close(); server.stop();

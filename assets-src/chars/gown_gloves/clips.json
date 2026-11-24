@@ -1,0 +1,68 @@
+[
+ {
+  "name": "sit_idle",
+  "file": "mixamo/Survival/Sitting Idle.fbx",
+  "strip_travel": true,
+  "foot_lift": 0.061,
+  "narrow": 0.6
+ },
+ {
+  "name": "sit_talk",
+  "file": "mixamo/Survival/Sitting Talking.fbx",
+  "strip_travel": true,
+  "align_hips_to": "sit_idle",
+  "foot_lift": 0.05
+ },
+ {
+  "name": "sit_drink",
+  "file": "mixamo/Survival/Sitting Drinking.fbx",
+  "strip_travel": true,
+  "align_hips_to": "sit_idle",
+  "yaw": 180,
+  "start": 157,
+  "foot_lift": 0.05,
+  "narrow": 0.6,
+  "end": 355
+ },
+ {
+  "name": "sit_rub",
+  "file": "mixamo/Survival/Sitting Rubbing Arm.fbx",
+  "strip_travel": true,
+  "align_hips_to": "sit_idle",
+  "foot_lift": 0.046,
+  "narrow": 0.6
+ },
+ {
+  "name": "sit_laugh",
+  "file": "mixamo/Survival/Sitting Victory.fbx",
+  "strip_travel": true,
+  "align_hips_to": "sit_idle",
+  "foot_lift": 0.057,
+  "narrow": 0.6
+ },
+ {
+  "name": "drink",
+  "file": "mixamo/Survival/Drinking.fbx",
+  "strip_travel": true
+ },
+ {
+  "name": "look_around",
+  "file": "mixamo/Survival/Nervously Look Around.fbx",
+  "strip_travel": true
+ },
+ {
+  "name": "look_away",
+  "file": "mixamo/Gestures Pack Basic/look away gesture.fbx",
+  "strip_travel": true
+ },
+ {
+  "name": "idle",
+  "file": "mixamo/Female Locomotion Pack/idle.fbx",
+  "strip_travel": true
+ },
+ {
+  "name": "walk",
+  "file": "mixamo/Female Locomotion Pack/walking (in place).fbx",
+  "strip_travel": true
+ }
+]

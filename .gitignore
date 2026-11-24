@@ -1,0 +1,48 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Builds and what they need. Builds go in a release, with pch publish, not in the repo.
+/dist/
+node_modules/
+
+# Screenshots and clips from the test scripts
+/shots/
+
+# Editors and systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# What MISSING_ASSETS.md says to download: their licences bar passing them on, so they never go in git.
+/sonniss/
+/mixamo/
+/src/assets/audio/ambience-walla.*
+/src/assets/audio/ambience-roomtone.*
+/src/assets/audio/glass-clink-1.*
+/src/assets/audio/glass-clink-2.*
+/src/assets/audio/glass-clink-3.*
+/src/assets/audio/glass-clink-4.*
+/src/assets/audio/ice-1.*
+/src/assets/audio/ice-2.*
+/src/assets/audio/pour-1.*
+/src/assets/audio/glass-set-down-1.*
+/src/assets/audio/glass-set-down-2.*
+/src/assets/audio/glass-set-down-3.*
+/src/assets/audio/floor-creak-1.*
+/src/assets/audio/floor-creak-2.*
+/src/assets/audio/applause-1.*
+/src/assets/audio/applause-2.*
+/src/assets/audio/step-carpet-1.*
+/src/assets/audio/step-carpet-2.*
+/src/assets/audio/step-carpet-3.*
+/src/assets/audio/step-carpet-4.*
+/src/assets/audio/step-carpet-5.*
+/src/assets/audio/step-carpet-6.*
+/assets-src/chars/*/*-anim.glb
+/assets-src/chars/*/*-opt.glb
+/assets-src/chars/*/*-anim.meta.json

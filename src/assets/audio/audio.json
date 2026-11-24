@@ -1,0 +1,683 @@
+[
+ {
+  "id": "wild-cat-blues",
+  "files": {
+   "ogg": "wild-cat-blues.ogg",
+   "m4a": "wild-cat-blues.m4a"
+  },
+  "kind": "music",
+  "durationS": 178.5,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -16.02,
+   "truePeakDbtp": -2.14,
+   "rmsDb": -16.63
+  },
+  "title": "Wild Cat Blues",
+  "performer": "Clarence Williams' Blue Five (Sidney Bechet, soprano saxophone; Clarence Williams, piano; Tom Morris, cornet; John Mayfield, trombone; Buddy Christian, banjo)",
+  "year": 1923,
+  "source": "Internet Archive 78rpm collection item JV-653-1923-QmbKBTdABAnkjdogSkNH4VHaGvRCK4W1zv4daEcGaYfaUR.mp3",
+  "sourceUrl": "https://archive.org/details/JV-653-1923-QmbKBTdABAnkjdogSkNH4VHaGvRCK4W1zv4daEcGaYfaUR.mp3",
+  "licence": "Public domain in the US (sound recording published 1925 or earlier; composition published 1930 or earlier)",
+  "notes": "Band set tune 1 of 4. Recorded New York, 30 Jul 1923; OKeh 4925 (matrix S-71706-B), issued 1923 (DAHR: OKeh 4925 dated [1923], https://adp.library.ucsb.edu/index.php/objects/refer/253129 ; matrix https://adp.library.ucsb.edu/index.php/matrix/refer/2000203855). Composition by Thomas 'Fats' Waller and Clarence Williams, 1923 (Waller's first published composition). Transfer: archive.org 320 kbps MP3 (already restored/denoised), uploader-marked CC0; the recording itself is PD-US. Processing: mono, 60 Hz high-pass, adeclick (threshold 4), afftdn nr 4 dB, trimmed 0.14-178.64 s with 150 ms in / 800 ms out fades, +2.1 dB then 4x-oversampled limiter at -2.4 dBTP to -16 LUFS. Opus 96 kbps / AAC 128 kbps."
+ },
+ {
+  "id": "bleeding-hearted-blues",
+  "files": {
+   "ogg": "bleeding-hearted-blues.ogg",
+   "m4a": "bleeding-hearted-blues.m4a"
+  },
+  "kind": "music",
+  "durationS": 188.37,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -16.07,
+   "truePeakDbtp": -2.04,
+   "rmsDb": -15.65
+  },
+  "title": "Bleeding Hearted Blues",
+  "performer": "James P. Johnson (piano solo)",
+  "year": 1923,
+  "source": "Internet Archive 78rpm collection item JV-621-1923-QmQavyrgUpzaFHKZPrV3bucALMTQaZdBk4eoVKZz5o434L.mp3",
+  "sourceUrl": "https://archive.org/details/JV-621-1923-QmQavyrgUpzaFHKZPrV3bucALMTQaZdBk4eoVKZz5o434L.mp3",
+  "licence": "Public domain in the US (sound recording published 1925 or earlier; composition published 1930 or earlier)",
+  "notes": "Band set tune 2 of 4. Recorded Camden, New Jersey, July 1923 (Victor matrix B-28197, take 6; DAHR dates take 6 to 25 Jul 1923, the archive.org notes say 5 Jul); issued on Victor 19123, release date 15 Sep 1923 per DAHR from the Victor blue history card (https://adp.library.ucsb.edu/index.php/objects/refer/14076 ; matrix https://adp.library.ucsb.edu/index.php/matrix/refer/800002211). Composition by Lovie Austin (with Alberta Hunter), 1923: sheet music published by Jack Mills Inc., New York (copy in the Archives Center, National Museum of American History; the firm was renamed Mills Music in 1928, so this printing predates 1928), and DAHR's Columbia and OKeh entries for the song cite US Copyright Office files ('Lovey Austin'). Transfer: archive.org 320 kbps MP3 (already restored/denoised), uploader-marked CC0; the recording itself is PD-US. Processing: mono, 60 Hz high-pass, adeclick (threshold 4), afftdn nr 4 dB, trimmed 0.74-189.11 s with 150 ms in / 800 ms out fades, +3.04 dB then 4x-oversampled limiter at -2.4 dBTP to -16 LUFS. Opus 96 kbps / AAC 128 kbps."
+ },
+ {
+  "id": "spain",
+  "files": {
+   "ogg": "spain.ogg",
+   "m4a": "spain.m4a"
+  },
+  "kind": "music",
+  "durationS": 177.6739,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -16.09,
+   "truePeakDbtp": -2.06,
+   "rmsDb": -15.62
+  },
+  "title": "Spain",
+  "performer": "Isham Jones and His Orchestra (Isham Jones, tenor sax and leader; Roy Bargy, piano; Al Mauling, clarinet/alto/oboe; Louis Panico, cornet)",
+  "year": 1924,
+  "source": "Internet Archive 78rpm collection item JV-1021-1924-QmaxbxuneXRhkibSACiP9BShPsYhUVQRsLidYySdziyUg1.mp3",
+  "sourceUrl": "https://archive.org/details/JV-1021-1924-QmaxbxuneXRhkibSACiP9BShPsYhUVQRsLidYySdziyUg1.mp3",
+  "licence": "Public domain in the US (sound recording published 1925 or earlier; composition published 1930 or earlier)",
+  "notes": "Band set tune 3 of 4. Recorded Chicago, 24 Apr 1924; Brunswick 2600, issued 1924 and a #1 hit that year (DAHR https://adp.library.ucsb.edu/index.php/objects/refer/264534). Composition by Isham Jones (music) and Gus Kahn (lyric), published Chicago: Milton Weil Music Co., c1924 (Morgan Library https://www.themorgan.org/music-manuscripts-and-printed-music/150980). Instrumental fox trot. Transfer: archive.org 320 kbps MP3 (already restored/denoised), uploader-marked CC0; the recording itself is PD-US. Processing: mono, 60 Hz high-pass, adeclick (threshold 4), afftdn nr 4 dB, trimmed 0.22-177.894 s with 150 ms in / 800 ms out fades, +-0.13 dB then 4x-oversampled limiter at -2.4 dBTP to -16 LUFS. Opus 96 kbps / AAC 128 kbps."
+ },
+ {
+  "id": "in-the-evening",
+  "files": {
+   "ogg": "in-the-evening.ogg",
+   "m4a": "in-the-evening.m4a"
+  },
+  "kind": "music",
+  "durationS": 190.13,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -16.16,
+   "truePeakDbtp": -2.06,
+   "rmsDb": -15.77
+  },
+  "title": "In the Evening",
+  "performer": "Jean Goldkette and His Orchestra (Jimmy Dorsey and Doc Ryker, clarinet/alto sax; Don Murray, clarinet/tenor sax; Joe Venuti, violin; Tommy Dorsey, trombone; Paul Mertz and Dewey Bergman, piano)",
+  "year": 1924,
+  "source": "Internet Archive 78rpm collection item JV-965-1924-QmXKuB71AinBAvVpenFTttyUsKmGanuzoiKXuj7xLb6BNm.mp3",
+  "sourceUrl": "https://archive.org/details/JV-965-1924-QmXKuB71AinBAvVpenFTttyUsKmGanuzoiKXuj7xLb6BNm.mp3",
+  "licence": "Public domain in the US (sound recording published 1925 or earlier; composition published 1930 or earlier)",
+  "notes": "Band set tune 4 of 4. Recorded Detroit, 27 Mar 1924 (Victor matrix B-29807, take 3); issued on Victor 19308 (coupled with 'Where the Lazy Daisies Grow'), release date 9 May 1924 per DAHR from the Victor blue history card (https://adp.library.ucsb.edu/index.php/objects/refer/14264 ; matrix https://adp.library.ucsb.edu/index.php/matrix/refer/800003908). Composition by Walter Donaldson, published 1924: Shapiro, Bernstein & Co. sheet music dated 1924 (Western Michigan University Libraries, https://archon.library.wmich.edu/repositories/4/archival_objects/77512) and a London edition by Keith Prowse & Co., 1924 (York University Libraries). Transfer: archive.org 320 kbps MP3 (already restored/denoised), uploader-marked CC0; the recording itself is PD-US. Processing: mono, 60 Hz high-pass, adeclick (threshold 4), afftdn nr 4 dB, trimmed 1.95-192.08 s with 150 ms in / 800 ms out fades, +1.58 dB then 4x-oversampled limiter at -2.4 dBTP to -16 LUFS. Opus 96 kbps / AAC 128 kbps."
+ },
+ {
+  "id": "ambience-walla",
+  "files": {
+   "ogg": "ambience-walla.ogg",
+   "m4a": "ambience-walla.m4a"
+  },
+  "kind": "ambience",
+  "durationS": 74.0,
+  "loop": true,
+  "loopStartS": 0.0,
+  "loopEndS": 74.0,
+  "measured": {
+   "integratedLufs": -27.99,
+   "truePeakDbtp": -7.85,
+   "rmsDb": -30.64
+  },
+  "source": "Sonniss GDC layers: 2018 West Wolf - Restaurant Ambiences / RA_06_Restaurant_Dinner_Int_Walla_Crowd_50-75 People_Germany_Zoom H4.wav; 2020 Sonik Sound Library - Spatial Crowds / Ambience, Wedding Crowd, Crowd in a Open Bar Wedding Banquet-Surround.wav; 2016 Chupapsound - CROWD AMBIANCE / hall ambiance people far st.wav; laughs from 2018 Soundrangers - Audience Reactions (sitcom_studio_crowd_laughter_10.wav, theater_audience_laughter_applause_01.wav)",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/West%20Wolf%20-%20Restaurant%20Ambiences/RA_06_Restaurant_Dinner_Int_Walla_Crowd_50-75%20People_Germany_Zoom%20H4.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Seated-crowd murmur. 74 s loop layered from three crowds so no single voice or language stands out: a 50-75 person restaurant dinner (RA_06 from 34 s, -2 dB), an open-bar wedding banquet (5.0 surround folded to stereo as L/R + 0.7 x C/Ls/Rs, from 10 s, -4 dB) and a far hall crowd (from 0.3 s, +2 dB), each RMS-matched first. Syllabic modulation of the layered bed 0.37 vs 0.58 for RA_06 alone (lower = more diffuse). 70 Hz high-pass, 7 kHz low-pass, 4 s equal-power crossfade at the seam. Two short audience laughs (sitcom_studio_crowd_laughter_10 at 21 s; first 2.3 s of theater_audience_laughter_applause_01 at 52 s) band-limited to 150 Hz-4.5 kHz and set 9 / 11 dB under the bed's RMS, like a far table. Normalised to -28 LUFS. Loop seam check: RMS step at the wrap 0.66 dB (typical 50 ms step in the loop, 95th pct: 2.3 dB). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "ambience-roomtone",
+  "files": {
+   "ogg": "ambience-roomtone.ogg",
+   "m4a": "ambience-roomtone.m4a"
+  },
+  "kind": "ambience",
+  "durationS": 48.0,
+  "loop": true,
+  "loopStartS": 0.0,
+  "loopEndS": 48.0,
+  "measured": {
+   "integratedLufs": -41.99,
+   "truePeakDbtp": -29.46,
+   "rmsDb": -43.29
+  },
+  "source": "Sonniss GDC 2018 bundle / West Wolf - Restaurant Ambiences / RA_40_Restaurant_Bar_Night_Fridges_Empty_Room Tone_Neumann KM184 ORTF.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/West%20Wolf%20-%20Restaurant%20Ambiences/RA_40_Restaurant_Bar_Night_Fridges_Empty_Room%20Tone_Neumann%20KM184%20ORTF.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Empty bar at night with fridges. 48 s loop from 60-112 s, 4 s equal-power crossfade, 40 Hz high-pass, normalised to -42 LUFS. Loop seam check: RMS step at the wrap 1.48 dB (typical 50 ms step in the loop, 95th pct: 3.69 dB). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-clink-1",
+  "files": {
+   "ogg": "glass-clink-1.ogg",
+   "m4a": "glass-clink-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 0.6843,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -21.82,
+   "truePeakDbtp": -2.45,
+   "rmsDb": -25.29
+  },
+  "source": "Sonniss GDC 2019 bundle / 3maze - Kitchenware / drinks_glasses_touching_003.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2019/individual/3maze%20-%20Kitchenware/drinks_glasses_touching_003.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Two drinking glasses touching (single). Mono, trimmed to the transient, tail faded from 0.35 s. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-clink-2",
+  "files": {
+   "ogg": "glass-clink-2.ogg",
+   "m4a": "glass-clink-2.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 0.8,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -25.69,
+   "truePeakDbtp": -3.05,
+   "rmsDb": -28.99
+  },
+  "source": "Sonniss GDC 2016 bundle / George Karagioules - The Source Collection SFX Pack / Wine Glass Hit Higher Pitch.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2016/individual/George%20Karagioules%20-%20The%20Source%20Collection%20SFX%20Pack/Wine%20Glass%20Hit%20Higher%20Pitch.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Wine-glass hit #1 (0.21 s in the source). Mono, 0.8 s with ring-out fade. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-clink-3",
+  "files": {
+   "ogg": "glass-clink-3.ogg",
+   "m4a": "glass-clink-3.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.2,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -26.49,
+   "truePeakDbtp": -3.34,
+   "rmsDb": -31.64
+  },
+  "source": "Sonniss GDC 2016 bundle / George Karagioules - The Source Collection SFX Pack / Wine Glass Hit Higher Pitch.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2016/individual/George%20Karagioules%20-%20The%20Source%20Collection%20SFX%20Pack/Wine%20Glass%20Hit%20Higher%20Pitch.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Wine-glass hit #2 (1.08 s in the source). Mono, 1.2 s with ring-out fade. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-clink-4",
+  "files": {
+   "ogg": "glass-clink-4.ogg",
+   "m4a": "glass-clink-4.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.2,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -25.94,
+   "truePeakDbtp": -2.11,
+   "rmsDb": -31.05
+  },
+  "source": "Sonniss GDC 2016 bundle / George Karagioules - The Source Collection SFX Pack / Wine Glass Hit Higher Pitch.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2016/individual/George%20Karagioules%20-%20The%20Source%20Collection%20SFX%20Pack/Wine%20Glass%20Hit%20Higher%20Pitch.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Wine-glass hit #4 (4.81 s in the source). Mono, 1.2 s with ring-out fade. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "ice-1",
+  "files": {
+   "ogg": "ice-1.ogg",
+   "m4a": "ice-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.5,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -17.27,
+   "truePeakDbtp": -3.25,
+   "rmsDb": -25.17
+  },
+  "source": "Sonniss GDC 2016 bundle / Qbsound Studio - Bar Effects / Ice filling glass 01 NT1-A.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2016/individual/Qbsound%20Studio%20-%20Bar%20Effects/Ice%20filling%20glass%2001%20NT1-A.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Ice cubes dropped into a glass (first drop, 0.16-1.66 s). Mono. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "ice-2",
+  "files": {
+   "ogg": "ice-2.ogg",
+   "m4a": "ice-2.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 2.0,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -25.4,
+   "truePeakDbtp": -2.85,
+   "rmsDb": -32.32
+  },
+  "source": "Sonniss GDC 2018 bundle / Airborne Sound - Kitchen / Ice Cubes,Glass,Tumbler,Water,Swirl,Rattle.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/Airborne%20Sound%20-%20Kitchen/Ice%20Cubes%2CGlass%2CTumbler%2CWater%2CSwirl%2CRattle.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Ice swirled in a tumbler (0.09-2.09 s). Mono. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "pour-1",
+  "files": {
+   "ogg": "pour-1.ogg",
+   "m4a": "pour-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.6427,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -20.95,
+   "truePeakDbtp": -2.89,
+   "rmsDb": -24.86
+  },
+  "source": "Sonniss GDC 2020 bundle / SpillAudio - Bar and Coffee Shop / pouring_007.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2020/individual/SpillAudio%20-%20Bar%20and%20Coffee%20Shop/pouring_007.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Short drink pour (0.25-1.9 s). Mono. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-set-down-1",
+  "files": {
+   "ogg": "glass-set-down-1.ogg",
+   "m4a": "glass-set-down-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 0.21,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -23.75,
+   "truePeakDbtp": -3.03,
+   "rmsDb": -20.12
+  },
+  "source": "Sonniss GDC 2020 bundle / Wav Junction Sound Effects - Glassware / 0081_Glass_large_slide_on_wood_surface_2.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2020/individual/Wav%20Junction%20Sound%20Effects%20-%20Glassware/0081_Glass_large_slide_on_wood_surface_2.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Heavy glass base knocked down on wood (4.37 s in the source, before it slides). Mono, 0.21 s. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-set-down-2",
+  "files": {
+   "ogg": "glass-set-down-2.ogg",
+   "m4a": "glass-set-down-2.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 0.55,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -19.85,
+   "truePeakDbtp": -2.87,
+   "rmsDb": -24.26
+  },
+  "source": "Sonniss GDC 2016 bundle / Qbsound Studio - Bar Effects / Glasses handle 03 NTG-2.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2016/individual/Qbsound%20Studio%20-%20Bar%20Effects/Glasses%20handle%2003%20NTG-2.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Glass set down (2.67 s in the source). Mono, 0.55 s. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "glass-set-down-3",
+  "files": {
+   "ogg": "glass-set-down-3.ogg",
+   "m4a": "glass-set-down-3.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 0.5,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -26.35,
+   "truePeakDbtp": -2.96,
+   "rmsDb": -30.3
+  },
+  "source": "Sonniss GDC 2016 bundle / Qbsound Studio - Bar Effects / Glasses handle 03 NTG-2.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2016/individual/Qbsound%20Studio%20-%20Bar%20Effects/Glasses%20handle%2003%20NTG-2.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Glass set down, sharper (0.35 s in the source). Mono, 0.5 s. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "lighter-1",
+  "files": {
+   "ogg": "lighter-1.ogg",
+   "m4a": "lighter-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.2752,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -26.7,
+   "truePeakDbtp": -2.82,
+   "rmsDb": -32.0
+  },
+  "source": "Freesound #700894 'FIREIgn_Zippo Strike Close_MC.wav' by magnuscarlssen (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/magnuscarlssen/sounds/700894/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Flip-top lighter: wheel strike, flame, lid snapped shut (0.20-1.52 s of the source). Mono, 40 Hz high-pass, peak -4.5 dBFS so its bright clicks stay under -2.5 dBTP after encoding. Peak -4.5 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades."
+ },
+ {
+  "id": "floor-creak-1",
+  "files": {
+   "ogg": "floor-creak-1.ogg",
+   "m4a": "floor-creak-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.2,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -20.31,
+   "truePeakDbtp": -2.79,
+   "rmsDb": -23.56
+  },
+  "source": "Sonniss GDC 2019 bundle / Matt Script - Squeaks & Creaks / Old wood floor_creak_creaking_slow_back and forth_04.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2019/individual/Matt%20Script%20-%20Squeaks%20%26%20Creaks/Old%20wood%20floor_creak_creaking_slow_back%20and%20forth_04.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Old wood floor creak (0.38-1.58 s). Mono. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "floor-creak-2",
+  "files": {
+   "ogg": "floor-creak-2.ogg",
+   "m4a": "floor-creak-2.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 1.745,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -22.07,
+   "truePeakDbtp": -2.85,
+   "rmsDb": -23.74
+  },
+  "source": "Sonniss GDC 2019 bundle / Matt Script - Squeaks & Creaks / Old wood floor_creak_creaking_slow_back and forth_04.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2019/individual/Matt%20Script%20-%20Squeaks%20%26%20Creaks/Old%20wood%20floor_creak_creaking_slow_back%20and%20forth_04.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Longer floor creak (2.82-4.57 s). Mono. Peak -3 dBFS, starts within 5 ms of the transient, 5 ms / 10 ms fades. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "applause-1",
+  "files": {
+   "ogg": "applause-1.ogg",
+   "m4a": "applause-1.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 9.6,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -20.01,
+   "truePeakDbtp": -2.83,
+   "rmsDb": -23.94
+  },
+  "source": "Sonniss GDC 2019 bundle / 2496SoundEffects - Bits, Scraps and Pieces Super Pack / Cheer Clapping Small Group In Theater Applause sound effect.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2019/individual/2496SoundEffects%20-%20Bits%2C%20Scraps%20and%20Pieces%20Super%20Pack/Cheer%20Clapping%20Small%20Group%20In%20Theater%20Applause%20sound%20effect.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Small-group applause, first burst (0-9.6 s) with its natural decay; tail faded from 6.8 s. Stereo, 80 Hz high-pass. Peak -3 dBFS. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "applause-2",
+  "files": {
+   "ogg": "applause-2.ogg",
+   "m4a": "applause-2.m4a"
+  },
+  "kind": "sfx",
+  "durationS": 8.1,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -17.23,
+   "truePeakDbtp": -3.07,
+   "rmsDb": -21.15
+  },
+  "source": "Sonniss GDC 2019 bundle / 2496SoundEffects - Bits, Scraps and Pieces Super Pack / Cheer Clapping Small Group In Theater Applause sound effect.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2019/individual/2496SoundEffects%20-%20Bits%2C%20Scraps%20and%20Pieces%20Super%20Pack/Cheer%20Clapping%20Small%20Group%20In%20Theater%20Applause%20sound%20effect.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Small-group applause, third burst (23.95-32.05 s), 150 ms fade-in, tail faded from 5.6 s. Stereo. Peak -3 dBFS. Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "step-wood-1",
+  "files": {
+   "ogg": "step-wood-1.ogg",
+   "m4a": "step-wood-1.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.144,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -32.35,
+   "truePeakDbtp": -5.99,
+   "rmsDb": -28.15
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 3.640 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-2",
+  "files": {
+   "ogg": "step-wood-2.ogg",
+   "m4a": "step-wood-2.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.32,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -32.88,
+   "truePeakDbtp": -5.9,
+   "rmsDb": -28.59
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 4.866 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-3",
+  "files": {
+   "ogg": "step-wood-3.ogg",
+   "m4a": "step-wood-3.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.32,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -29.75,
+   "truePeakDbtp": -5.97,
+   "rmsDb": -28.4
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 6.195 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-4",
+  "files": {
+   "ogg": "step-wood-4.ogg",
+   "m4a": "step-wood-4.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.206,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -31.95,
+   "truePeakDbtp": -5.99,
+   "rmsDb": -29.07
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 6.723 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-5",
+  "files": {
+   "ogg": "step-wood-5.ogg",
+   "m4a": "step-wood-5.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.32,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -30.75,
+   "truePeakDbtp": -5.99,
+   "rmsDb": -29.51
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 7.810 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-6",
+  "files": {
+   "ogg": "step-wood-6.ogg",
+   "m4a": "step-wood-6.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.32,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -30.85,
+   "truePeakDbtp": -5.95,
+   "rmsDb": -29.67
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 8.394 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-7",
+  "files": {
+   "ogg": "step-wood-7.ogg",
+   "m4a": "step-wood-7.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.32,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -34.34,
+   "truePeakDbtp": -5.97,
+   "rmsDb": -30.17
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 12.103 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-wood-8",
+  "files": {
+   "ogg": "step-wood-8.ogg",
+   "m4a": "step-wood-8.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.166,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -33.65,
+   "truePeakDbtp": -5.92,
+   "rmsDb": -30.18
+  },
+  "source": "Freesound #161756 'Footsteps Dress Shoes Wood Floor.wav' by allrealsound (HQ preview)",
+  "sourceUrl": "https://freesound.org/people/allrealsound/sounds/161756/",
+  "licence": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/, shown on the sound page)",
+  "notes": "Single dress-shoe step on a wooden floor, step at 12.639 s of the source. Mono, 60 Hz high-pass, starts 4 ms before the heel transient, cut when the tail is 45 dB down (max 0.32 s), tail shaped over its last 60 %, 5 ms / 8 ms fades, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block)."
+ },
+ {
+  "id": "step-carpet-1",
+  "files": {
+   "ogg": "step-carpet-1.ogg",
+   "m4a": "step-carpet-1.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.27,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -33.89,
+   "truePeakDbtp": -6.01,
+   "rmsDb": -28.65
+  },
+  "source": "Sonniss GDC 2018 bundle / The Sound Pack Tree - Footstep Loops / 1806 - Footsteps - Sneakers on Carpet - 90 fpm - Loop.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/The%20Sound%20Pack%20Tree%20-%20Footstep%20Loops/1806%20-%20Footsteps%20-%20Sneakers%20on%20Carpet%20-%2090%20fpm%20-%20Loop.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Single soft step on carpet (sneakers) sliced from the 90 fpm loop at 2.829 s. Mono, 60 Hz high-pass, starts 4 ms before the transient, max 0.30 s, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "step-carpet-2",
+  "files": {
+   "ogg": "step-carpet-2.ogg",
+   "m4a": "step-carpet-2.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.3,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -32.18,
+   "truePeakDbtp": -5.99,
+   "rmsDb": -27.5
+  },
+  "source": "Sonniss GDC 2018 bundle / The Sound Pack Tree - Footstep Loops / 1806 - Footsteps - Sneakers on Carpet - 90 fpm - Loop.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/The%20Sound%20Pack%20Tree%20-%20Footstep%20Loops/1806%20-%20Footsteps%20-%20Sneakers%20on%20Carpet%20-%2090%20fpm%20-%20Loop.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Single soft step on carpet (sneakers) sliced from the 90 fpm loop at 6.826 s. Mono, 60 Hz high-pass, starts 4 ms before the transient, max 0.30 s, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "step-carpet-3",
+  "files": {
+   "ogg": "step-carpet-3.ogg",
+   "m4a": "step-carpet-3.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.3,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -30.1,
+   "truePeakDbtp": -5.86,
+   "rmsDb": -25.57
+  },
+  "source": "Sonniss GDC 2018 bundle / The Sound Pack Tree - Footstep Loops / 1806 - Footsteps - Sneakers on Carpet - 90 fpm - Loop.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/The%20Sound%20Pack%20Tree%20-%20Footstep%20Loops/1806%20-%20Footsteps%20-%20Sneakers%20on%20Carpet%20-%2090%20fpm%20-%20Loop.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Single soft step on carpet (sneakers) sliced from the 90 fpm loop at 12.160 s. Mono, 60 Hz high-pass, starts 4 ms before the transient, max 0.30 s, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "step-carpet-4",
+  "files": {
+   "ogg": "step-carpet-4.ogg",
+   "m4a": "step-carpet-4.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.3,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -31.66,
+   "truePeakDbtp": -6.01,
+   "rmsDb": -27.05
+  },
+  "source": "Sonniss GDC 2018 bundle / The Sound Pack Tree - Footstep Loops / 1806 - Footsteps - Sneakers on Carpet - 90 fpm - Loop.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/The%20Sound%20Pack%20Tree%20-%20Footstep%20Loops/1806%20-%20Footsteps%20-%20Sneakers%20on%20Carpet%20-%2090%20fpm%20-%20Loop.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Single soft step on carpet (sneakers) sliced from the 90 fpm loop at 13.494 s. Mono, 60 Hz high-pass, starts 4 ms before the transient, max 0.30 s, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "step-carpet-5",
+  "files": {
+   "ogg": "step-carpet-5.ogg",
+   "m4a": "step-carpet-5.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.278,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -29.35,
+   "truePeakDbtp": -6.04,
+   "rmsDb": -26.89
+  },
+  "source": "Sonniss GDC 2018 bundle / The Sound Pack Tree - Footstep Loops / 1806 - Footsteps - Sneakers on Carpet - 90 fpm - Loop.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/The%20Sound%20Pack%20Tree%20-%20Footstep%20Loops/1806%20-%20Footsteps%20-%20Sneakers%20on%20Carpet%20-%2090%20fpm%20-%20Loop.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Single soft step on carpet (sneakers) sliced from the 90 fpm loop at 16.829 s. Mono, 60 Hz high-pass, starts 4 ms before the transient, max 0.30 s, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ },
+ {
+  "id": "step-carpet-6",
+  "files": {
+   "ogg": "step-carpet-6.ogg",
+   "m4a": "step-carpet-6.m4a"
+  },
+  "kind": "step",
+  "durationS": 0.278,
+  "loop": false,
+  "measured": {
+   "integratedLufs": -29.75,
+   "truePeakDbtp": -6.04,
+   "rmsDb": -27.48
+  },
+  "source": "Sonniss GDC 2018 bundle / The Sound Pack Tree - Footstep Loops / 1806 - Footsteps - Sneakers on Carpet - 90 fpm - Loop.wav",
+  "sourceUrl": "https://ftpmirror.your.org/pub/misc/sonniss2018/individual/The%20Sound%20Pack%20Tree%20-%20Footstep%20Loops/1806%20-%20Footsteps%20-%20Sneakers%20on%20Carpet%20-%2090%20fpm%20-%20Loop.wav",
+  "licence": "Sonniss GDC Game Audio Bundle licence (royalty-free, games only, never redistributed as sound files, no AI use) https://sonniss.com/gdc-bundle-license/",
+  "notes": "Single soft step on carpet (sneakers) sliced from the 90 fpm loop at 20.162 s. Mono, 60 Hz high-pass, starts 4 ms before the transient, max 0.30 s, peak -6 dBFS. LUFS measured with silence padding to 0.5 s (clip shorter than one 400 ms gating block). Sonniss-derived: ship only inside the game, never as loose files, never to any AI service."
+ }
+]

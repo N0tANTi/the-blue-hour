@@ -1,0 +1,11 @@
+import { launch, startPreview, watch } from '../scripts/lib.mjs';
+const server = await startPreview('dist');
+const browser = await launch();
+const page = await browser.newPage({ viewport: { width: 960, height: 540 } });
+const w = watch(page, server.url);
+await page.goto(`${server.url}?seed=5&autostart=1&clock=fixed${process.argv[3] ?? ""}`);
+await page.waitForFunction(() => window.__game?.ready && window.__game.state().phase === 'playing', null, { timeout: 60000 });
+const out = await page.evaluate(new Function(`return (${process.argv[2]})(window.__game)`));
+console.log(JSON.stringify(out, null, 1));
+if (w.errors.length) console.log('errors', w.errors.slice(0, 5));
+await browser.close(); server.stop();

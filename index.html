@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		<title>The Blue Hour</title>
+		<link rel="icon" href="data:," />
+		<style>
+			:root {
+				--gold: #d8a25a;
+				--gold-dim: rgba(216, 162, 90, 0.45);
+				--ink: #f6e6cc;
+				color-scheme: dark;
+			}
+			html,
+			body {
+				margin: 0;
+				height: 100%;
+				overflow: hidden;
+				background: #0a0504;
+				font-family: 'Bodoni MT', 'Didot', 'Playfair Display', Georgia, 'Times New Roman', serif;
+				color: var(--ink);
+				user-select: none;
+				-webkit-user-select: none;
+				touch-action: none;
+			}
+			#app {
+				position: fixed;
+				inset: 0;
+			}
+			canvas#view {
+				display: block;
+				width: 100%;
+				height: 100%;
+				outline: none;
+			}
+			.layer {
+				position: fixed;
+				inset: 0;
+				pointer-events: none;
+			}
+			#veil {
+				display: grid;
+				place-items: center;
+				background: radial-gradient(ellipse at 50% 55%, rgba(10, 4, 2, 0.1), rgba(10, 4, 2, 0.72));
+				transition: opacity 0.8s ease;
+				pointer-events: auto;
+				cursor: pointer;
+			}
+			#veil.gone {
+				opacity: 0;
+				pointer-events: none;
+			}
+			#veil .card {
+				text-align: center;
+				padding: 34px 64px 30px;
+				position: relative;
+				background: radial-gradient(ellipse at 50% 50%, rgba(8, 4, 2, 0.82) 0%, rgba(8, 4, 2, 0.7) 55%, rgba(8, 4, 2, 0) 100%);
+				border-radius: 40px;
+			}
+			#veil .fan {
+				width: 120px;
+				height: 60px;
+				margin: 0 auto 10px;
+				background: repeating-conic-gradient(from 270deg at 50% 100%, var(--gold) 0 4deg, transparent 4deg 15deg);
+				-webkit-mask: radial-gradient(circle at 50% 100%, #000 0 58px, transparent 59px);
+				mask: radial-gradient(circle at 50% 100%, #000 0 58px, transparent 59px);
+				opacity: 0.85;
+			}
+			#veil h1 {
+				margin: 0;
+				font-weight: 400;
+				font-size: clamp(44px, 7vw, 88px);
+				letter-spacing: 0.32em;
+				text-indent: 0.32em;
+				text-transform: uppercase;
+				color: var(--ink);
+				text-shadow: 0 0 28px rgba(255, 150, 60, 0.35);
+			}
+			#veil .rule {
+				width: 260px;
+				height: 1px;
+				margin: 14px auto 12px;
+				background: linear-gradient(90deg, transparent, var(--gold), transparent);
+			}
+			#veil .sub {
+				font-size: 15px;
+				letter-spacing: 0.28em;
+				text-transform: uppercase;
+				color: var(--gold);
+			}
+			#veil-status {
+				margin-top: 20px;
+				font: 12px/1 system-ui, 'Segoe UI', sans-serif;
+				letter-spacing: 0.2em;
+				text-transform: uppercase;
+				opacity: 0.7;
+				min-height: 14px;
+			}
+			#veil .bar {
+				width: 200px;
+				height: 1px;
+				margin: 12px auto 0;
+				background: rgba(255, 255, 255, 0.12);
+				overflow: hidden;
+			}
+			#veil-bar {
+				height: 100%;
+				background: var(--gold);
+				transform-origin: 0 50%;
+				transform: scaleX(0);
+				transition: transform 0.25s;
+			}
+			#veil-play {
+				display: none;
+				margin-top: 22px;
+				font: 13px/1 system-ui, 'Segoe UI', sans-serif;
+				letter-spacing: 0.3em;
+				text-transform: uppercase;
+				color: var(--ink);
+				animation: pulse 2.2s ease-in-out infinite;
+			}
+			#veil.ready #veil-play {
+				display: block;
+			}
+			#veil .howto,
+			#veil .tip {
+				display: none;
+				font: 12px/1.6 system-ui, 'Segoe UI', sans-serif;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				opacity: 0.8;
+			}
+			#veil .howto {
+				margin-top: 18px;
+				padding: 9px 0;
+				border-top: 1px solid var(--gold-dim);
+				border-bottom: 1px solid var(--gold-dim);
+			}
+			#veil .howto b {
+				color: var(--gold);
+				font-weight: 600;
+			}
+			#veil .tip {
+				margin: 12px auto 0;
+				max-width: 420px;
+				letter-spacing: 0.06em;
+				text-transform: none;
+				opacity: 0.6;
+			}
+			#veil.ready .howto,
+			#veil.ready .tip {
+				display: block;
+			}
+			#veil.ready .bar,
+			#veil.ready #veil-status {
+				display: none;
+			}
+			@keyframes pulse {
+				50% {
+					opacity: 0.45;
+				}
+			}
+			#pause {
+				display: none;
+				place-items: center;
+				background: rgba(8, 4, 2, 0.55);
+				pointer-events: auto;
+				cursor: pointer;
+				font-size: 18px;
+				letter-spacing: 0.3em;
+				text-transform: uppercase;
+			}
+			#pause.on {
+				display: grid;
+			}
+			#hud {
+				opacity: 0;
+				transition: opacity 0.6s;
+			}
+			body.playing #hud {
+				opacity: 1;
+			}
+			#dot {
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				width: 4px;
+				height: 4px;
+				margin: -2px 0 0 -2px;
+				border-radius: 50%;
+				background: rgba(246, 230, 204, 0.75);
+				box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+			}
+			#hint {
+				position: absolute;
+				left: 50%;
+				bottom: 28px;
+				transform: translateX(-50%);
+				font: 12px/1 system-ui, 'Segoe UI', sans-serif;
+				letter-spacing: 0.18em;
+				text-transform: uppercase;
+				padding: 10px 18px;
+				border-top: 1px solid var(--gold-dim);
+				border-bottom: 1px solid var(--gold-dim);
+				background: rgba(10, 5, 3, 0.45);
+				transition: opacity 1s;
+				white-space: nowrap;
+			}
+			#hint.gone {
+				opacity: 0;
+			}
+			#debug {
+				position: absolute;
+				right: 8px;
+				top: 8px;
+				font: 11px/1.35 ui-monospace, Consolas, monospace;
+				white-space: pre;
+				background: rgba(0, 0, 0, 0.55);
+				padding: 6px 8px;
+				display: none;
+			}
+			body.debug #debug {
+				display: block;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="app"><canvas id="view" tabindex="0"></canvas></div>
+		<div id="hud" class="layer">
+			<div id="dot"></div>
+			<div id="hint">WASD walk &nbsp;·&nbsp; Mouse look &nbsp;·&nbsp; Shift walk faster &nbsp;·&nbsp; Esc pause</div>
+		</div>
+		<div id="debug" class="layer"></div>
+		<div id="pause" class="layer">Paused &nbsp;·&nbsp; click to return</div>
+		<div id="veil" class="layer">
+			<div class="card">
+				<div class="fan"></div>
+				<h1 id="veil-title">The Blue Hour</h1>
+				<div class="rule"></div>
+				<div class="sub">The last set &nbsp;·&nbsp; one night &nbsp;·&nbsp; 1929</div>
+				<div id="veil-status">Loading</div>
+				<div class="bar"><div id="veil-bar"></div></div>
+				<div id="veil-play">Click to enter</div>
+				<div class="howto"><b>WASD</b> walk &nbsp; <b>Mouse</b> look &nbsp; <b>Shift</b> walk faster &nbsp; <b>Esc</b> pause</div>
+				<div class="tip">The band is playing. Walk the room, the card room through the west door, the balcony through the south doors.</div>
+			</div>
+		</div>
+		<script type="module" src="/src/main.ts"></script>
+		<script src="patch-credits.js" defer></script>
+	</body>
+</html>

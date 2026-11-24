@@ -1,0 +1,15 @@
+{
+  "project": "blendi/the-blue-hour",
+"version": "0.5.17",
+  "channel": "public",
+  "files": "dist",
+  "recipe": {
+    "mode": "browser",
+    "launch": { "kind": "browser", "entry": "index.html", "component": "main" },
+    "components": [{ "id": "main", "file": "", "kind": "main", "label": "Main files" }],
+    "test": {
+      "checks": ["boot", "render", "move", "people", "band", "audio", "no-errors"],
+      "minutes": 1
+    }
+  }
+}
